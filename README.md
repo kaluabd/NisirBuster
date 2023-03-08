@@ -8,4 +8,4 @@ Please use it for educational purposes only.  The writer of this code have no re
 
 #usage 
 
-python3 NisirBuster.py
+python3 Nisirbuster_updated.py
